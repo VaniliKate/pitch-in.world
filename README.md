@@ -36,11 +36,11 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  https://github.com/Owiti-Charles/pitch-world.git
+  https://github.com/VaniliKate/pitch-in.world.git
   ```
 2. Move to the folder and install requirements
   ```bash
-  cd pitch-world
+  cd pitch-in.world
   pip install -r requirements.txt
   ```
 3. Exporting Configurations
@@ -70,10 +70,10 @@ Open the application on your browser `127.0.0.1:5000`.
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
+If you have any question or contributions, please email me at [katevanili98@gmail.com]
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2019 **Kate Vanili**
 
 
