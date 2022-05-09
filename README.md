@@ -1,13 +1,13 @@
 # pitch-world
 ## Author
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Kate Vanili]
 
 # Description
 This  is a flask application that allows users to post one minute pitches and also allows other users who have signed up to comment and upvote or downvote a pitch. It also allows a person to signup to be able to access the functionalities of the application
 
 ## Live Link
-[View Site](https://pitchworldcha.herokuapp.com)
+[View Site](https://vanili-pitch.herokuapp.com/)
 
 ## Screenshot
 
