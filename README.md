@@ -23,9 +23,10 @@ This  is a flask application that allows users to post one minute pitches and al
 | :---------------- | :---------------: | ------------------: |
 | Load the page | **On page load** | View all posts available|
 | Click on comment button |  | Redirect to all comments template with your comment and other comments|
-| Load the page | **On page load** | Get all posts, Select between signup and login|
+| to comment, like or dislike a pitch |  | Log in or signup to the application|
 | Select SignUp| **Email**,**Username**,**Password** | Redirect to login|
 | Select Login | **Username** and **password** | Redirect to page with app pitches based on categories and commenting section|
+| Load the page | **On page load** | Get all to the comments section, Select between signup and login|
 | Select comment button | **Comment** | Form that you input your comment|
 
 
